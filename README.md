@@ -40,13 +40,13 @@ The ML Basics folder contains code examples for the basics of machine learning. 
 
 ---
 
-## <u><i>Rest Client and Web Services</i></u>:
+## <u><i>Web Services</i></u>
+
+### <u><i>REST</i></u>:
 
 The Rest Client and Web Services folder contains code examples for consuming and creating RESTful web services. REST (Representational State Transfer) is a popular architectural style for building web services.
 
----
-
-## <u><i>Soap Client and Web Services</i></u>:
+### <u><i>SOAP</i></u>:
 
 The Soap Client and Web Services folder contains code examples for consuming and creating SOAP-based web services. SOAP (Simple Object Access Protocol) is a protocol for exchanging structured information in the implementation of web services.
 
