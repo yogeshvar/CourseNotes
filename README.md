@@ -3,6 +3,12 @@
 <img src="https://img.shields.io/badge/repo-archived-red"/>
 
 
+
+Feel free to use these notes as a reference, but kindly give credit where it's due.
+
+Happy Learning!
+
+
 ## Course Structure by [TekTutor](https://github.com/tektutor)
 
 This course contains the following topics:
@@ -16,7 +22,7 @@ This course contains the following topics:
 - Docker
 - Kubertenes
 
-Few topics are organized into a separate folder, with code examples included. To get started, simply navigate to the folder for the topic you wish to review the code examples provided.
+Few topics are organized into a separate folder, with code examples included. To get started, simply navigate to the folder for the topic you wish to review the code examples provided. These notes were taken during a corporate training course structured by [Tektutor](https://github.com/tektutor) at [Amdocs](https://www.amdocs.com), Pune. The course covered various topics related to the subject and these notes serve as a quick reference for the concepts learned during the training. Please note that these notes were created for personal use and may not necessarily cover all the topics taught in the course.
 
 ## <u><i>BDD Test</i></u>: 
 
