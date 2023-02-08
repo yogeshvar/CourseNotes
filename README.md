@@ -1,5 +1,8 @@
 # Trainer Notes for SDE Course 
 
+<img src="https://img.shields.io/badge/repo-archived-red"/>
+
+
 ## Course Structure by [TekTutor](https://github.com/tektutor)
 
 This course contains the following topics:
