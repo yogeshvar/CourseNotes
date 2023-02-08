@@ -13,7 +13,7 @@ This course contains the following topics:
 - Docker
 - Kubertenes
 
-Few topics are organized into a separate folder, with code examples included. To get started, simply navigate to the folder for the topic you wish to study and review the code examples provided.
+Few topics are organized into a separate folder, with code examples included. To get started, simply navigate to the folder for the topic you wish to review the code examples provided.
 
 ## <u><i>BDD Test</i></u>: 
 
@@ -59,4 +59,4 @@ A platform for building, shipping, and running distributed applications. Docker 
 
 An open-source system for automating deployment, scaling, and management of containerized applications. Kubernetes provides a platform for deploying, scaling, and operating applications in a consistent and automated manner, making it easier to manage and maintain large-scale applications.
 
-We hope that you find this customised SDE course helpful in your software development journey. Enjoy your learning!
+Hope that you find this helps in your software development journey. Enjoy your learning!
